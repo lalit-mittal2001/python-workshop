@@ -13,9 +13,13 @@
 
 
 
-#The term "Adventure game" originated from the 1970s text computer game Colossal Cave Adventure, often referred to simply as Adventure, which pioneered a style of gameplay that was widely imitated and became a genre in its own right. ... Essential elements of the genre include storytelling, exploration, and puzzle solving.
+#The term "Adventure game" originated from the 1970s text computer game Colossal Cave Adventure, 
+often referred to simply as Adventure, which pioneered a style of gameplay that was widely imitated and became a genre in its own right. ... 
+Essential elements of the genre include storytelling, exploration, and puzzle solving.
 
-#Adventure games contain a variety of  puzzle decoding messages, finding and using items, opening locked doors, or finding and exploring new locations. Solving a puzzle will unlock access to new areas in the game world, and reveal more of the game story. Logic puzzles, where mechanical devices are designed with abstract interfaces to test a player's deductive reasoning skills, are common.
+#Adventure games contain a variety of  puzzle decoding messages, finding and using items, opening locked doors,
+or finding and exploring new locations. Solving a puzzle will unlock access to new areas in the game world,
+and reveal more of the game story. Logic puzzles, where mechanical devices are designed with abstract interfaces to test a player's deductive reasoning skills, are common.
 import random
 import time
 
