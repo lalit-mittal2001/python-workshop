@@ -1,2 +1,2 @@
 # python-workshop
-learning python using jupyter
+learning python using anaconda-jupyter-notebook
